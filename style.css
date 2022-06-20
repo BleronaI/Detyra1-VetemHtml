@@ -1,0 +1,15 @@
+*{
+    font-family: monospace;
+}
+
+h1 {
+    color : rgb(168, 189, 221);
+}
+.kont {
+    border: 50px solid white;
+    padding: 5px;
+    margin-left: 370px;
+    margin-right: 370px;
+    text-align: center;
+    background-color: rgb(168, 189, 221);
+}
